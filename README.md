@@ -1,21 +1,44 @@
-Name: Rashmil Bundel
-Registration number: 25BCY10134
+#DIGITAL-LITERACY-PROJECT Digital Literacy Project – CSE0001 
+Student Details 
+Name: Rashmil Bundel; Registration Number: 25BCY10134; Branch: CSE Cybersecurity Year: First Year B.Tech Course Information Course Code: CSE0001 Course Title: Digital Literacy Institution: VIT Bhopal University 
 
-#Project Overview:
-This is my project for the Vityarthi Digital Literacy non graded mandatory course. In this project, we will learn the basics of digital literacy.
+Project Overview
 
-#Module Summaries:
+This repository contains my Digital Literacy Portfolio, created as part of the CSE0001 course. As a ;='Student Digital Ambassador, the goal of this project was to help students understand and effectively use digital tools, build a professional online presence, and practice safe and responsible online behavior.
 
-report/Project_Report.pdf or
-.docx Full written report covering all 5 tasks
+The project is divided into five tasks, each focusing on a different aspect of digital literacy, including awareness, online profiles, coding platforms, communication, and cyber safety.
 
-task-1-presentation/ Canva/Prezi link or exported image, brief
-description
+Repository Structure digital-literacy-project/
 
-task-2-portfolio/ Screenshots of profiles set up, reflection notes
+README.md report/ Project_Report.pdf / .docx
 
-task-3-platforms/ Platform screenshots, activity proof, notes
+task-1-presentation/ Infographic (Canva/Prezi screenshot or link)
 
-task-4-email-etiquette/ Sample email drafts, etiquette checklists
+task-2-portfolio/ Profile screenshots (GitHub, LinkedIn, etc.)
 
-task-5-cybercrime/ Case study writeup, prevention checklist
+task-3-platforms/ Coding platform + Google Form screenshots
+
+task-4-email-etiquette/ Email drafts Social media checklist
+
+task-5-cybercrime/ Case study Prevention checklist Task Summary Task 1: Digital Literacy Awareness Infographic Created an infographic using Canva Covered topics like: Digital literacy basics Safe internet practices Useful tools for students Task 2: Student Digital Portfolio
+
+Profiles created/updated on:
+
+GitHub → https://github.com/rashmil-2/rashmil-2 LinkedIn → www.linkedin.com/in/rashmil-bundel-b2340b37b Kaggle/Other → https://www.kaggle.com/rashmilbundel
+
+Purpose: Build professional online identity Showcase skills and learning journey
+
+Task 3: Coding & Collaboration Platforms Completed a beginner problem on: HackerRank / CodeChef / HackerEarth Created a Google Form Quiz on digital literacy
+
+Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfnQY1k_JViSgJg-NiZqKwCICBkjF7_Nop1hIP3n6ha2VPcuw/viewform?usp=dialog
+Task 4: Email & Communication Skills Drafted: Email to professor Email for internship application Created: Social Media Do’s & Don’ts checklist Task 5: Cybercrime Awareness Created a case study on: [Phishing / UPI Fraud / Cyberbullying / etc.] Designed a prevention checklist for students Included: Cyber Crime Portal: https://cybercrime.gov.in Helpline: 1930 Key Learnings Importance of digital literacy in academics and career How to build a professional online presence Basics of coding platforms and collaboration tools Proper email etiquette and communication skills Awareness about cybercrime and online safety Tools & Platforms Used Canva (Infographic Design) GitHub (Version Control & Portfolio) LinkedIn (Professional Networking) HackerRank / CodeChef (Coding Practice) Google Forms (Quiz Creation) Submission
+
+This repository is submitted as part of the Digital Literacy Project (CSE0001) via the VITyarthi portal.
+
+Academic Integrity
+
+All work in this repository is original and created by me as part of the course requirements. External resources, if used, have been properly referenced.
+
+Note
+
+This project serves as the foundation of my digital portfolio, which I plan to continuously improve over the next four years.
